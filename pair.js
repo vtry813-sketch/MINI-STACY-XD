@@ -48,9 +48,9 @@ const config = {
     CHANNEL_LINK: 'https://whatsapp.com/channel/0029VbBLNUHCcW4hDEIzKa0Y'
 };
 
-const octokit = new Octokit({ auth: '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' });
-const owner = 'me-tech-maker';
-const repo = 'MINI-BARBIE-TRASH';
+const octokit = new Octokit({ auth: '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' });
+const owner = 'INCONNU-BOY';
+const repo = 'mini-data';
 
 const activeSockets = new Map();
 const socketCreationTime = new Map();
